@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/kelvinazaria777" target="blank"><img src="https://img.shields.io/twitter/follow/kelvinazaria777?logo=twitter&style=for-the-badge" alt="kelvinazaria777" /></a> </p>
 
-- 🔭 I’m currently working on [Byr.SPP](https://github.com/kelvin-azaria/Byr.SPP)
-
 - 📫 How to reach me **kelvin.azaria.billy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
